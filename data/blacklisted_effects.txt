@@ -81,7 +81,6 @@ avfilter.volume
 avfilter.volumedetect
 
 # Removed for 19.04 release as a result of systematic testing of all the available effects
-avfilter.atadenoise
 avfilter.avgblur
 avfilter.blackdetect
 avfilter.blackframe
